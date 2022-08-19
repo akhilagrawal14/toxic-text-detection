@@ -1,0 +1,4 @@
+matplotlib>=3.3.0
+pandas 
+numpy
+nltk>=3.4.5
